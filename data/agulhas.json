@@ -1,0 +1,27 @@
+
+[
+    {
+        "id": 1,
+        "nome": "RL-ROUNND LINER",
+        "descricao": "PARA LINHA + SE ACINHAM EM CIRCULO + TEM FORMA DE FUNIL  + SENDO BEM FINA NA PONTA",
+        "preco": 21.90
+    },
+    {
+        "id": 2,
+        "nome": "RS-ROUND SHADER",
+        "descricao": "PARA SOMBRAS + LINHAS GROSSAS + PREENCHIMENTO ONDE É COMPLICADO + SUA FROMA É TUBAL",
+        "preco": 16.50
+    },
+    {
+        "id": 3,
+        "nome": "MAGNUM WEAVED (INTERCALADA)",
+        "descricao": "DUAS FILEIRAS DE AGULHAS PARALELAS E SEPARADAS + UMA FILEIRA COM UMA AGULHA A MAIS QUE A OUTRA + SERVE TANTO PARA PREENCHIMENTO QUANTO A SOMBRA",
+        "preco": 43.00
+    },
+    {
+        "id": 4, 
+        "nome": "MAGNUM STACKED (EMPILHADA)",
+        "descricao": "FORMADA POR DUAS FILEIRAS DE AGULHAS PARALELAS E JUNTAS + ONDE UMA FILEIRA EM UMA AGULHA A MAIS QUE A OUTRA + PODEM SER USADAS PARA MESCLAR CORES + SOMBRA E PREENCHIMENTO EM ARÉAS MAIS COMPLEXAS",
+        "preco": 32.00
+    }
+]

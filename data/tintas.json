@@ -1,0 +1,27 @@
+
+ [
+        {
+            "id": 1,
+            "nome": "ULTRA LINER BLACK",
+            "descricao": "30ML PRETO ULTRA + ELECTRIC INK",
+            "preco": 37.00
+        },
+        {
+            "id": 2,
+            "nome": "GHOSHT WHITE EG",
+            "descricao": "30ML BRANCO + ELECTRIC INK ",
+            "preco": 34.00
+        },
+        {
+            "id": 3,
+            "nome": "VERMELHO FERRARI",
+            "descricao": "30ML ELETRIC INK",
+            "preco": 34.00
+        },
+        {
+            "id":4, 
+            "nome":"AZUL MEDIO",
+            "descricao": "30ML ELETRIC INK",
+            "preco": 34.00
+        }
+    ]

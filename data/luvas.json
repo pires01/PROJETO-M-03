@@ -1,0 +1,27 @@
+
+ [
+    {
+        "id": 1,
+        "nome": "NITRÍLICA",
+        "descricao": "PRETA + DESCARTAVÉL",
+        "preco": 19.98
+    },
+    {
+        "id": 2,
+        "nome": "LATEX",
+        "descricao": "BRANCA + DESCARTAVEL",
+        "preco": 19.97
+    },
+    {
+        "id": 3,
+        "nome": "UNIGLOVES PINK",
+        "descricao": "DESCARTAVEL + ROSA",
+        "preco": 30.00
+    },
+    {
+        "id": 4,
+        "nome": "DESCARPACK",
+        "descricao": "NTRILICA + AZUL + DESCARTAVEL",
+        "preco": 13.56
+    }
+]
